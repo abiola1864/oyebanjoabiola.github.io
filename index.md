@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Simon Ejdemyr is a Senior Data Scientist at Netflix with a Ph.D. from Stanford University.">
-    <meta name="keywords" content="Simon Ejdemyr, simon ejdemyr, Simon, Ejdemyr, simon, ejdemyr, Stanford, stanford, facebook, netflix">
+    <meta name="description" content="Abiola Oyebanjo is a Senior Data Scientist at Netflix with a Ph.D. from Stanford University.">
+    <meta name="keywords" content="Abiola Oyebanjo, Abiola Oyebanjo, Abiola, Oyebanjo, Abiola, Oyebanjo, Humboldt, UC Berkeley"> Oyebanjo
 
-    <title>Simon Ejdemyr</title>
+    <title>Abiola Oyebanjo</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -34,7 +34,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <span class="light">Simon</span> Ejdemyr
+                    <span class="light">Abiola</span> Oyebanjo
                 </a>
             </div>
 
@@ -79,7 +79,7 @@
 
                 This page has a collection of resources primarily compiled during my PhD, but
                 I sometimes update it with new papers and tutorials. Feel free to connect on
-                <a href="https://www.linkedin.com/in/simon-ejdemyr-22b920123/" target="_blank"> LinkedIn. </a>
+                <a href="https://www.linkedin.com/in/Abiola-Oyebanjo-22b920123/" target="_blank"> LinkedIn. </a>
 	      </p>
 
 	    </div>
@@ -317,7 +317,7 @@
     <footer>
       <div class="container">
  	<p> </p>
-        <p class="text-center"><em>Simon Ejdemyr 2020</em> </p>
+        <p class="text-center"><em>Abiola Oyebanjo 2020</em> </p>
       </div>
     </footer>
 
