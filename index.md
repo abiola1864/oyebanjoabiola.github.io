@@ -1,4 +1,4 @@
-![Abiola Portrait](/oyebanjoabiola.github.io/Portrait.png)  
+![Abiola Portrait](/oyebanjoabiola.github.io/Portrait.png| width=50)  
 <!DOCTYPE html>
 <html lang="en">
 
