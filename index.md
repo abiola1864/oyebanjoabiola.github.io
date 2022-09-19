@@ -117,15 +117,7 @@
 
 	    <p class="small abstract">
 
-	      <strong> Abstract. </strong> In 2000, world leaders
-	      agreed on the Millennium Development Goals (MDGs). MDG 4
-	      called for a two-thirds reduction in the under-5
-	      mortality rate between 1990 and 2015. We aimed to
-	      estimate levels and trends in under-5 mortality for 195
-	      countries from 1990 to 2015 to assess MDG 4 achievement
-	      and then intended to project how various post-2015
-	      targets and observed rates of change will affect the
-	      burden of under-5 deaths from 2016 to 2030.
+	      <strong> Abstract. </strong> In 2000,
 	    </p>
 
 
@@ -138,27 +130,7 @@
 
 	    <p class="small abstract">
 
-	      <strong> Abstract. </strong> This article demonstrates
-	      that ethnic segregation is a key determinant of public
-	      goods provision. We argue that this results from
-	      politicians' strategic engagement in ethnic favoritism:
-	      only when ethnic groups are sufficiently segregated can
-	      elites efficiently target their coethnics with local
-	      public goods. We test this expectation with fine-grained
-	      data from Malawi on the spatial distribution of ethnic
-	      groups, geolocated distributive goods (public and
-	      private), and the ethnic identities of political
-	      elites. We find that members of parliament provide more
-	      local public goods to their constituencies when ethnic
-	      groups are geographically segregated, but that this
-	      increased investment is primarily targeted toward
-	      coethnics. Thus, while segregation promotes overall
-	      public goods provision, it also leads to greater
-	      favoritism in the distribution of these goods. Our logic
-	      and evidence provide an elite-driven explanation for the
-	      considerable variation in ethnic favoritism and the
-	      under-provision of public goods in ethnically diverse
-	      settings.
+	      <strong> Abstract. </strong> 
 	    </p>
 
 
@@ -169,18 +141,7 @@
 	    <p class="small abstract">
 
 	      <strong> Abstract. </strong>
-          Do elections motivate incumbent politicians to serve their voters? In this
-          paper, we use millions of service requests placed by residents in US cities to
-          measure constituency responsiveness. We then test whether an unusual policy
-          change in New York City, which enabled city councilors to run for three rather
-          than two terms in office, improved constituency responsiveness in previously
-          term-limited councilors’ districts. Using difference-in-differences, we find
-          robust evidence for this. Taking advantage of differential timing of local
-          election races in New York City and San Francisco, we also find late-term
-          improvements to responsiveness in districts represented by reelection-seeking
-          incumbents. Elections improve municipal services, but also create cycles in
-          constituency responsiveness. These findings have implications for theories of
-          representative democracy.
+          Do elections 
 	    </p>
 
        </div>
@@ -204,106 +165,6 @@
 
       </div>
     </section>
-
-
-    <!-- Datavis Section -->
-     <span style="display:block; height: 30px;"></span>
-    <section id="datavis" class="container content-section text-left">
-
-      <div class="col-md-8 col-md-offset-2">
-	<h4>Data Visualization</h4>
-
-	<div class="row top-buffer-maj">
-
-	  <div class="col-sm-5 col-xs-6">
-	    <div>
-	    <p>
-	      <a href="data-vis/311/app/" target="_blank">
-		NYC Responsiveness
-	      </a>
-	    </p>
-	    <p class="small top-nobuffer" style="margin-bottom: 15px">
-	      Since 2004 over 15 million service requests have been
-	      filed by residents in NYC. The government responds
-	      quicker in some neighborhoods than in others...
-	    </p>
-	    </div>
-	    <div class="imgAlt">
-	      <a href="data-vis/311/app/" target="_blank">
-		<img src="img/311-preview.png" class="img-responsive center-block" style="border-radius: 2px">
-	      </a>
-	    </div>
-	  </div>
-
-	  <div class="col-sm-5 col-xs-6 col-sm-offset-1">
-	    <p>
-	      <a href="data-vis/ecological-footprints/" target="_blank">
-		Ecological Footprints
-	      </a>
-	    </p>
-	    <p class="small top-nobuffer decrease-margin">
-	      On average, humanity's demand on biocapacity exceeds the
-	      world's natural capacity by 50%. Put differently, 1.5
-	      planet Earths would be required...
-	    </p>
-	    <div class="imgAlt">
-	      <a href="data-vis/ecological-footprints/" target="_blank">
-		<img src="data-vis/ecological-footprints/img/prev.png" class="img-responsive center-block rotate45" style="width:60%">
-	      </a>
-	    </div>
-	  </div>
-
-	</div>
-	<!-- /row -->
-
-
-	<div class="row">
-
-	  <div class="col-sm-5 col-xs-6">
-	    <p>
-	      <a href="data-vis/mortality-wealth-time/" target="_blank">
-		Child Mortality & Wealth
-	      </a>
-	    </p>
-	    <p class="small top-nobuffer">
-	      While child mortality in general is lower in high-income
-	      countries, many low-income countries did a remarkable
-	      job of reducing it between 1990 and 2015...
-	    </p>
-	    <div class="imgAlt">
-	      <a href="data-vis/mortality-wealth-time/" target="_blank">
-		<img src="data-vis/mortality-wealth-time/img/prev.png" class="img-responsive center-block">
-	      </a>
-	    </div>
-	  </div>
-
-
-	  <div class="col-sm-5 col-xs-6 col-sm-offset-1">
-	    <p>
-	      <a href="data-vis/mortality-map/" target="_blank">
-		Mortality Map
-	      </a>
-	    </p>
-	    <p class="small top-nobuffer">
-	      Despite significant progress in reducing child mortality
-	      over the last 25 years, 43 out of every 1000 children
-	      died before their fifth birthday in 2015....
-	    </p>
-	    <div class="imgAlt">
-	      <a href="data-vis/mortality-map/" target="_blank">
-		<img src="data-vis/mortality-map/img/prev.png" class="img-responsive center-block">
-	      </a>
-	    </div>
-	  </div>
-
-	</div>
-	<!-- /row -->
-
-
-      </div>
-    </section>
-
-
 
 
 
