@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Abiola Oyebanjo is a Senior Data Scientist at Netflix with a Ph.D. from Stanford University.">
+    <meta name="description" content="Abiola Oyebanjo is a PhD Researcher at Humboldt University">
     <meta name="keywords" content="Abiola Oyebanjo, Abiola Oyebanjo, Abiola, Oyebanjo, Abiola, Oyebanjo, Humboldt, UC Berkeley"> Oyebanjo
 
     <title>Abiola Oyebanjo</title>
@@ -71,15 +71,9 @@
 
             <div class="col-sm-4 col-sm-offset-4 col-xs-10 col-xs-offset-1">
               <p class="intro-text  text-left">
-		        Welcome! I'm a senior data scientist at Netflix. I like to build systems
-                that improve decision-making. Tools I regularly use for this purpose include
-                Bayesian statistics, causal inference, and computational methods in R and Python.
-                Before coming to Netflix I was a research scientist at Facebook, and before that
-                I got my PhD from Stanford while consulting for UNICEF.
+		        Welcome! Abiola Oyebanjo is the Executive Director of Empowerment for Local People Foundation, an organization that uses tools in technology, media and data science to train and support small business owners in Nigeria. Abiola has previously worked on projects that promote governance, education inequality, citizens engagements and social good to marginalized citizens in Nigeria and in the US. Previous affiliations include the International Institute for Local Development, Bridge International Academies, Reboot, American University DC and recently Carnegie Mellon University, USA. He is a doctoral researcher at the Humboldt University, Berlin and currently a visiting fellow at the University of California, Berkeley. 
 
-                This page has a collection of resources primarily compiled during my PhD, but
-                I sometimes update it with new papers and tutorials. Feel free to connect on
-                <a href="https://www.linkedin.com/in/Abiola-Oyebanjo-22b920123/" target="_blank"> LinkedIn. </a>
+                <a href="https://www.linkedin.com/in/oyebanjoabiola/" target="_blank"> LinkedIn. </a>
 	      </p>
 
 	    </div>
