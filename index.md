@@ -71,6 +71,7 @@
 
             <div class="col-sm-4 col-sm-offset-4 col-xs-10 col-xs-offset-1">
               <p class="intro-text  text-left">
+		   ![Abiola Portrait](/oyebanjoabiola.github.io/Portrait.png)   
 		        Welcome! Abiola Oyebanjo is the Executive Director of Empowerment for Local People Foundation, an organization that uses tools in technology, media and data science to train and support small business owners in Nigeria. Abiola has previously worked on projects that promote governance, education inequality, citizens engagements and social good to marginalized citizens in Nigeria and in the US. Previous affiliations include the International Institute for Local Development, Bridge International Academies, Reboot, American University DC and recently Carnegie Mellon University, USA. He is a doctoral researcher at the Humboldt University, Berlin and currently a visiting fellow at the University of California, Berkeley. 
 
                 <a href="https://www.linkedin.com/in/oyebanjoabiola/" target="_blank"> LinkedIn. </a>
